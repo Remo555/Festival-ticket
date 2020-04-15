@@ -18,7 +18,7 @@
 
     <?php
     require_once('../Private/Initialize.php');
-
+    //Verbeteren
     if (isset($_POST["UserName"])) {
     $username = ($_POST['UserName']);
     $password = sha1($_POST['Password']);
@@ -35,4 +35,3 @@
         ?> </div> </div> <?php
 }
 }
-
