@@ -1,0 +1,130 @@
+body {
+    background-color: #556772;
+}
+
+#container {
+    width: auto;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+#Leftbar
+{
+    height: 550px;
+    width: 100px;
+    background-color: orange;
+    float: left;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+
+#Rightbar
+{
+    height: 550px;
+    width: 100px;
+    background-color: orange;
+    float: right;
+    border-radius: 10px;
+    margin-right: 150px;
+}
+
+#topbar {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 1000px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+ #hyperlink-Home, #hyperlink-Menu, #hyperlink-Inloggen
+ {
+     color: white;
+     font-size: 30px;
+     padding:8px;
+     float: left;
+     margin-top: 20px;
+}
+
+ #hyperlink-Home {
+     margin-left: 30px;
+ }
+
+ #hyperlink-Inloggen {
+     float: right;
+     margin-right: 30px ;
+ }
+
+#Login, #Register {
+    margin-top: 300px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+#button {
+    width: 270px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: mintcream;
+}
+
+#RUserName, #password, #REmail {
+    float: right;
+}
+
+#Text-register, #Text-login {
+    height: 22px;
+    margin-left: 30%;
+
+}
+
+#wachtwoord-text, #Username-text, #Email-text {
+    float: left;
+}
+
+#User-exist-text {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+#bestel {
+    color: white;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 42%;
+}
+
+
+#Text-middle {
+    width: 1000px;
+    height: 550px;
+    margin-top: 100px;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#Homepage {
+    color: white;
+}
+
+#Register-hyperlink {
+    margin-left: 47%;
+    margin-top: -12px;
+    color: white;
+}
+
+#MiddleBestel {
+    margin-top: 25px;
+    margin-left: 42%;
+
+
+}
