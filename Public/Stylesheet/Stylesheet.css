@@ -7,34 +7,14 @@ body {
     height: 550px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 150px;
 }
 
-#Leftbar
-{
-    height: 550px;
-    width: 100px;
-    background-color: orange;
-    float: left;
-    border-radius: 10px;
-    margin-left: 150px;
-}
-
-#Rightbar
-{
-    height: 550px;
-    width: 100px;
-    background-color: orange;
-    float: right;
-    border-radius: 10px;
-    margin-right: 150px;
-}
 
 #topbar {
     margin-left: auto;
     margin-right: auto;
     height: 100px;
-    width: 1000px;
+    width: 100%;
     background-color: orange;
     border-radius: 10px;
 }
@@ -125,6 +105,4 @@ body {
 #MiddleBestel {
     margin-top: 25px;
     margin-left: 42%;
-
-
 }
